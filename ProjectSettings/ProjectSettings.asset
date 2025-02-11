@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: e20a6e22b520f544994946154999eb44
+  productGUID: a083f9f895c156c46aeb327ae08556f8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: SeniorDesignProject
+  productName: SeniorDesign
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -771,16 +771,16 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: SeniorDesignProject
-  metroPackageVersion: 
+  metroPackageName: SeniorDesign
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: SeniorDesignProject
+  metroApplicationDescription: SeniorDesign
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: SeniorDesign
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -847,10 +847,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 78daf8a2-b936-405d-abf8-e7e975464ce8
+  cloudProjectId: a44b8ad2-62a8-4139-81bc-90e75a8f759d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: SeniorDesignProject
+  projectName: SeniorDesign
   organizationId: tysonblue15
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
